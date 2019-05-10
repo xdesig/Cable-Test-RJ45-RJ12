@@ -11,21 +11,13 @@ Buy PCB in [PCBWAY]
 ![Top view][PHT]
 ![Render][RENDER]
 
-#[B.O.M.] 
+#B.O.M.
 <table cellspacing="0" border="0">
 	<colgroup width="38"></colgroup>
 	<colgroup width="70"></colgroup>
 	<colgroup span="2" width="133"></colgroup>
 	<colgroup width="122"></colgroup>
 	<colgroup width="85"></colgroup>
-	<tr>
-		<td height="17" align="left">B.O.M.</td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
 	<tr>
 		<td height="17" align="left">Qty </td>
 		<td align="left">Value</td>
