@@ -143,7 +143,7 @@ Buy PCB in [PCBWAY]
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
-* License: CERN-OHL-W V2 [CERN-OHL]and Attribution-ShareAlike 4.0 International [CCBY-SA4.0]
+* License: CERN-OHL-W V2 [CERN-OHL] and Attribution-ShareAlike 4.0 International [CCBY-SA4.0]
 
 
 <!-- links -->
