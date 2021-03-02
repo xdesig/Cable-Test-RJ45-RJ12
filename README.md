@@ -51,7 +51,7 @@ Buy PCB in [PCBWAY]
 		<td align="left">Battery Holders</td>
 	</tr>
 	<tr>
-		<td height="17" align="right" sdval="2" sdnum="1110;">1</td>
+		<td height="17" align="right" sdval="1" sdnum="1110;">2</td>
 		<td align="left">100nF</td>
 		<td align="left"> C2.5/2</td>
 		<td align="left">C2.5-2</td>
@@ -83,7 +83,7 @@ Buy PCB in [PCBWAY]
 		<td align="left">RESISTOR</td>
 	</tr>
 	<tr>
-		<td height="17" align="right" sdval="8" sdnum="1110;">6</td>
+		<td height="17" align="right" sdval="1" sdnum="1110;">8</td>
 		<td align="left">1N4148</td>
 		<td align="left"> DIODE-D-2.5</td>
 		<td align="left">D-2.5</td>
@@ -115,7 +115,7 @@ Buy PCB in [PCBWAY]
 		<td align="left">TIMER</td>
 	</tr>
 	<tr>
-		<td height="17" align="right" sdval="2" sdnum="1110;">2</td>
+		<td height="17" align="right" sdval="1" sdnum="1110;">2</td>
 		<td align="left">LB10</td>
 		<td align="left"> LB10</td>
 		<td align="left">LB10</td>
