@@ -1,4 +1,4 @@
-# Cable Test V0.02
+# Cable Test V0.4
 
 You want a PCB to exercise or learn to solder THT components, here you have one of many.
 This provides you with a device to test network cables (RJ45) and telephone cables (RJ12 / 11),
@@ -51,11 +51,11 @@ Buy PCB in [PCBWAY]
 		<td align="left">Battery Holders</td>
 	</tr>
 	<tr>
-		<td height="17" align="right" sdval="1" sdnum="1110;">1</td>
+		<td height="17" align="right" sdval="2" sdnum="1110;">1</td>
 		<td align="left">100nF</td>
 		<td align="left"> C2.5/2</td>
 		<td align="left">C2.5-2</td>
-		<td align="left">C2</td>
+		<td align="left">C2, C3</td>
 		<td align="left">CAPACITOR</td>
 	</tr>
 	<tr>
@@ -143,10 +143,12 @@ Buy PCB in [PCBWAY]
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
-* License: [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
+* License: CERN-OHL-W V2 [CERN-OHL]and Attribution-ShareAlike 4.0 International [CCBY-SA4.0]
+
 
 <!-- links -->
 
+[CERN-OHL]: https://ohwr.org/cernohl
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
 [PHT]: test_rj45_THT_Master_up.png
