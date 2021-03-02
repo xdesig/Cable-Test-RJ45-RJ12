@@ -83,11 +83,11 @@ Buy PCB in [PCBWAY]
 		<td align="left">RESISTOR</td>
 	</tr>
 	<tr>
-		<td height="17" align="right" sdval="6" sdnum="1110;">6</td>
+		<td height="17" align="right" sdval="8" sdnum="1110;">6</td>
 		<td align="left">1N4148</td>
 		<td align="left"> DIODE-D-2.5</td>
 		<td align="left">D-2.5</td>
-		<td align="left">D1...D6</td>
+		<td align="left">D1...D8</td>
 		<td align="left">DIODE</td>
 	</tr>
 	<tr>
