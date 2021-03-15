@@ -151,8 +151,8 @@ Buy PCB in [PCBWAY]
 [CERN-OHL]: https://ohwr.org/cernohl
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[PHT]: Cable-Test-RJ45-RJ12_Master_up.png
-[RENDER]: Cable-Test-RJ45-RJ12_Remote.png
+[PHT]: Cable-Test-RJ45-RJ12_MASTER.tif
+[RENDER]: Cable-Test-RJ45-RJ12_REMOTE.tif
 
 [PCBWAY]: https://www.pcbway.com/project/shareproject/Cable_Test_RJ45___RJ12.html
 
