@@ -9,8 +9,7 @@ Buy PCB in [PCBWAY]
 
 
 ![Top view][DEM]
-|[Render_1][PHT]
-![Render][RENDER]
+![Render][PHT][RENDER]
 
 #B.O.M.
 <table cellspacing="0" border="0">
